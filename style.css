@@ -1,0 +1,39 @@
+body {
+    color: white;
+    background-image: url("./images/tunnel-4701031_1280.jpg");
+    opacity: 1;
+    background-attachment: fixed;
+    background-size: 1050px;
+}
+
+div {
+    background-color: black;
+    color: white;
+    border: 3px solid whitesmoke;
+    width: 25%;
+    height: 25%;
+    padding: 19px;
+    border-radius: 16px;
+}
+
+h3 {
+    color: white;
+}
+
+form {
+    color: white;
+}
+
+button {
+    background-color: white;
+    border-radius: 9px;
+    border-color: white;
+}
+
+a {
+    color: white;
+}
+
+table {
+    background-color: black;
+}
